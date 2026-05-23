@@ -1,6 +1,7 @@
 # Environment variables
 .env
 server/.env
+src/.env
 *.env
 .env.local
 .env.*.local
