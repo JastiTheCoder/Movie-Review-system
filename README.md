@@ -19,6 +19,23 @@ This project helped me understand how frontend, backend, database, authenticatio
 - Toast notifications for user feedback
 - Client-side routing using React Router
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Review Page
+![Review Page](screenshots/reviews-page.png)
+
+### Backend User Creation
+![User Creation](screenshots/user-creation.png)
+
+
+ 
+
 ## Tech Stack
 
 ### Frontend
@@ -54,3 +71,5 @@ Movie-Review-system/
 ├── vite.config.js       # Vite configuration
 ├── tailwind.config.js   # Tailwind CSS configuration
 └── README.md
+
+
